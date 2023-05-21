@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808280264484",
+    "project_id": "volte-bc296",
+    "storage_bucket": "volte-bc296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808280264484:android:23eb1ca57c246bdd6b6db1",
+        "android_client_info": {
+          "package_name": "com.example.callapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808280264484-7lc9i4opmqtch2kjqe61io89c2153ihn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callapp",
+            "certificate_hash": "78e6a4a8289db576a93f0993bcbec9fc5a2b883c"
+          }
+        },
+        {
+          "client_id": "808280264484-jg8m0ujnsfnl9p0qnj612saijqttbcbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0Mgc1zB_T7E30rR7qeEiW-Le398qmog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808280264484-jg8m0ujnsfnl9p0qnj612saijqttbcbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
